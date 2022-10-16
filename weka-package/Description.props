@@ -2,10 +2,10 @@
 PackageName=massiveOnlineAnalysis
 
 # Version (required)
-Version=2021.07.0
+Version=2022.10.17
 
 #Date
-Date=2021-07-19
+Date=2022-10-17
 
 # Title (required)
 Title=MOA (Massive On-line Analysis).
@@ -27,7 +27,7 @@ Description=Massive On-line Analysis is an environment for massive data mining. 
 Changes=
 
 # Package URL for obtaining the package archive (required)
-PackageURL=https://github.com/Waikato/moa/releases/download/2021.07.0/massiveOnlineAnalysis-2021.07.0.zip
+PackageURL=https://github.com/waikato-datamining/moa/releases/download/2022.10.17/massiveOnlineAnalysis-2022.10.17.zip
 
 # URL for further information
 URL=http://moa.cs.waikato.ac.nz/
