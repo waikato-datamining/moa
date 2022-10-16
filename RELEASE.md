@@ -71,7 +71,7 @@
   Maven Central (the search index at https://search.maven.org/ only gets updated
   every few hours):
   
-  https://repo1.maven.org/maven2/nz/ac/waikato/cms/moa/
+  https://repo1.maven.org/maven2/nz/ac/waikato/cms/adams/
 
 
 ## Generate release files

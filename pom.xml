@@ -1,7 +1,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>nz.ac.waikato.cms.moa</groupId>
+  <groupId>nz.ac.waikato.cms.adams</groupId>
   <artifactId>moa-pom</artifactId>
   <packaging>pom</packaging>
   <version>2021.07.1-SNAPSHOT</version>
@@ -12,6 +12,7 @@
     provides a framework for data stream mining and includes tools for evaluation
     and a collection of machine learning algorithms. Related to the WEKA project,
     also written in Java, while scaling to more demanding problems.
+    ADAMS fork.
   </description>
   <url>http://moa.cms.waikato.ac.nz/</url>
   <organization>
@@ -58,9 +59,9 @@
   </mailingLists>
 
   <scm>
-    <connection>scm:git:ssh://git@github.com/waikato/moa</connection>
-    <developerConnection>scm:git:ssh://git@github.com/waikato/moa</developerConnection>
-    <url>https://github.com/waikato/moa</url>
+    <connection>scm:git:ssh://git@github.com/waikato-datamining/moa</connection>
+    <developerConnection>scm:git:ssh://git@github.com/waikato-datamining/moa</developerConnection>
+    <url>https://github.com/waikato-datamining/moa</url>
     <tag>HEAD</tag>
   </scm>
 
