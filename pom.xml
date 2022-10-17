@@ -4,7 +4,7 @@
   <groupId>nz.ac.waikato.cms.adams</groupId>
   <artifactId>moa-pom</artifactId>
   <packaging>pom</packaging>
-  <version>2022.10.17-SNAPSHOT</version>
+  <version>2022.10.17</version>
 
   <name>MOA: meta-package</name>
   <description>
@@ -62,7 +62,7 @@
     <connection>scm:git:ssh://git@github.com/waikato-datamining/moa</connection>
     <developerConnection>scm:git:ssh://git@github.com/waikato-datamining/moa</developerConnection>
     <url>https://github.com/waikato-datamining/moa</url>
-    <tag>HEAD</tag>
+    <tag>moa-pom-2022.10.17</tag>
   </scm>
 
   <dependencyManagement>
