@@ -6,7 +6,7 @@
   <parent>
     <groupId>nz.ac.waikato.cms.adams</groupId>
     <artifactId>moa-pom</artifactId>
-    <version>2022.10.17</version>
+    <version>2022.10.18-SNAPSHOT</version>
   </parent>
 
   <artifactId>weka-package</artifactId>
