@@ -3,7 +3,7 @@
   <parent>
     <artifactId>moa-pom</artifactId>
     <groupId>nz.ac.waikato.cms.adams</groupId>
-    <version>2022.10.17-SNAPSHOT</version>
+    <version>2022.10.17</version>
   </parent>
   <modelVersion>4.0.0</modelVersion>
 
